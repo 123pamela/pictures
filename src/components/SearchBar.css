@@ -2,3 +2,7 @@
     border: 1px solid lightgray;
     flex-direction: column;
 }
+.search-bar form{
+    display: flex;
+    flex-direction: column;
+}
